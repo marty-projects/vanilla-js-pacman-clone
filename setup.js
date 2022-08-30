@@ -38,7 +38,6 @@ export const OBJECT_TYPE = {
   GHOSTLAIR: 'lair'
 };
 
-// Lookup array for classes
 export const CLASS_LIST = [
   OBJECT_TYPE.BLANK,
   OBJECT_TYPE.WALL,
